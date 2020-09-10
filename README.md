@@ -1,11 +1,7 @@
-<!DOCTYPE html>
 <html>
-<head>
-<title>My Porfolio</title>
-</head>
 <body>
 
-<h1>About Me:</h1>
+<h4>About Me:</h4>
 
 MS in project management, having 5+ years of experience as a project manager, I have an
 experience and wisdom to lead project teams and manage risks. I have delivered products on time, on budget and within scope. I have ability to take ownership of complex efforts and mediate between competing interests and personalities to get alignment and motivate change. I have always been proactive in identifying and resolving problems before they occur.
@@ -13,17 +9,18 @@ experience and wisdom to lead project teams and manage risks. I have delivered p
 My peers say that I have amazing communication skills, including the ability to communicate between technical and non-technical contributors in a contextually intelligent manner.
 I have critical thinking skills to tease out the risks in plans, eliminate blockers, and ensure on time project delivery
 
-Achievements:
+<h4>Achievements:</h4>
+<p>
+<br>Manufacturing apparels and deliver the consignment on time to increase clientage by 20%.</br>
+<br>Marketing campaign to spread awareness of the importance of insurance and training which lead to 30% client caseload increased.</br>
+<br>Planned, scheduled the project resources efficiently and delivered on time.</br>
+<br>Efficiently resolved issues, mitigated risk in order to make the project process smoothly and achieved milestone before scheduled time period.</br>
+<br>Delivered dashboard projects 15 days before the deadline.</br>
+<br>Successfully planned and completed contracts within project deadline.</br>
+</p>
 
-Manufacturing apparels and deliver the consignment on time to increase clientage by 20%.</br>
-Marketing campaign to spread awareness of the importance of insurance and training which lead to 30% client caseload increased.</br>
-Planned, scheduled the project resources efficiently and delivered on time.</br>
-Efficiently resolved issues, mitigated risk in order to make the project process smoothly and achieved milestone before scheduled time period.</br>
-Delivered dashboard projects 15 days before the deadline.</br>
-Successfully planned and completed contracts within project deadline.</br>
 
-
-Roles and Responsibility:
+<h4>Roles and Responsibility:</h4>
 Excellent in written and verbal communication
 Solid organizational skills including attention to detail and multi-tasking skills.
 Strong working knowledge of MS Office.
@@ -56,7 +53,7 @@ Identify and anticipate project bottlenecks and effectively communicate with Lea
 Facilitate the efficient use of resources and align personal and project goals with company goals.
 Utilize available tools and standard methodologies to manage projects to ensure successful execution (e.g. MS Project, web-based dashboards) and structures (e.g. reports and meetings) and communication across R&D and other stakeholders
 
-Work Experience:
+<h4>Work Experience:</h4>
 Project Manager | Takeda 
 Assistant Project Manager | Northeastern University 
 Marketing Project Coordinator | The New India Assurance Company LTD
@@ -64,7 +61,7 @@ Project Co Ordinator| Arianna couture
 Administrative Assistant Project Coordinator |Kotak Mahindra AMC LTD
 
 
-Education:
+<h4>Education:</h4>
 Master of Science in Project Management |Northeastern University| Boston, MA	                          
 Graduate certificate in Business Administration |Northeastern University Boston, MA                      
 Bachelor of Commerce in Business Management |University of Mumbai| Mumbai, India               
@@ -73,7 +70,7 @@ Bachelor of Commerce in Business Management |University of Mumbai| Mumbai, India
 
 
 
-Skills:
+<h4>Skills:</h4>
 Tools            : HP ALM, Confluence, ASANA, Ariba, JIRA, Tableau, Microsoft Office Suite, Power BI,   
                               Axxerion, Trello, SQL, SharePoint
 Soft skills         : Communication, Collaboration, Time Management, Critical Thinking, Creative Thinking, Decision   
@@ -82,7 +79,7 @@ Technical skills :  Project Scheduling, Strategic Planning, Subject Matter Exper
 PM skills            :  Project Management (35%), Communication (20%), Leadership (21%), Microsoft Office (20%), Microsoft Project (21%), Problem Solving (12%), Time Management (10%), Risk Management (8%), Strategic Planning (6%),SharePoint (5%), Team Management (5%),Negotiation (4%)
 
 
-Certifications:
+<h4>Certifications:</h4>
 Scrum-Master Certified :  
 https://www.scrum-institute.org/certifications/Scrum-Institute.org-SMAC8c4739fc00-36265160198789.pdf
 
@@ -93,7 +90,7 @@ Google Analytics:
 https://drive.google.com/file/d/1eaQeCIaGv_xMuEln8Fndp6KnPc8caAai/view
 
 
-Contact Me:
+</h4>Contact Me:</h4>
 Neha Salunkhe
 neha.salunkhe30@gmail.com
 
