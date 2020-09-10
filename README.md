@@ -3,25 +3,22 @@
 
 <h4>About Me:</h4>
 
-MS in project management, having 5+ years of experience as a project manager, I have an
-experience and wisdom to lead project teams and manage risks. I have delivered products on time, on budget and within scope. I have ability to take ownership of complex efforts and mediate between competing interests and personalities to get alignment and motivate change. I have always been proactive in identifying and resolving problems before they occur.
- I have excellent organizational skills. I can able to conscientiously manage and follow up on multiple concurrent tasks and requests on tight deadlines.
-My peers say that I have amazing communication skills, including the ability to communicate between technical and non-technical contributors in a contextually intelligent manner.
-I have critical thinking skills to tease out the risks in plans, eliminate blockers, and ensure on time project delivery
+Graduated Northeastern University as Master in Project Management, having 5+ years of experience as a project manager.I am certified Six Sigma and Scrum master. 
+<br>I have an experience and wisdom to lead project teams and manage risks. I have delivered products on time, on budget and within scope. 
+<br>I have ability to take ownership of complex efforts and mediate between competing interests and personalities to get alignment and motivate change. I have always been proactive in identifying and resolving problems before they occur.
+<br>I have excellent organizational skills. I can able to conscientiously manage and follow up on multiple concurrent tasks and requests on tight deadlines.
+<br>My peers say that I have amazing communication skills, including the ability to communicate between technical and non-technical contributors in a contextually intelligent manner.
+<br>I have critical thinking skills to tease out the risks in plans, eliminate blockers, and ensure on time project delivery.
 
 <h4>Achievements:</h4>
-<p>
 <br>Manufacturing apparels and deliver the consignment on time to increase clientage by 20%.
 <br>Marketing campaign to spread awareness of the importance of insurance and training which lead to 30% client caseload increased.
 <br>Planned, scheduled the project resources efficiently and delivered on time.
 <br>Efficiently resolved issues, mitigated risk in order to make the project process smoothly and achieved milestone before scheduled time period.
 <br>Delivered dashboard projects 15 days before the deadline.
 <br>Successfully planned and completed contracts within project deadline.
-</p>
-
 
 <h4>Roles and Responsibility:</h4>
-<p>
 <br>Excellent in written and verbal communication
 <br>Solid organizational skills including attention to detail and multi-tasking skills.
 <br>Strong working knowledge of MS Office.
@@ -53,7 +50,6 @@ I have critical thinking skills to tease out the risks in plans, eliminate block
 <br>Identify and anticipate project bottlenecks and effectively communicate with Leadership
 <br>Facilitate the efficient use of resources and align personal and project goals with company goals.
 <br>Utilize available tools and standard methodologies to manage projects to ensure successful execution (e.g. MS Project, web-based dashboards) and structures (e.g. reports and meetings) and communication across R&D and other stakeholders
- </p>
 
 <h4>Work Experience:</h4>
 <br>Project Manager | Takeda 
@@ -62,15 +58,10 @@ I have critical thinking skills to tease out the risks in plans, eliminate block
 <br>Project Co Ordinator| Arianna couture
 <br>Administrative Assistant Project Coordinator |Kotak Mahindra AMC LTD
 
-
 <h4>Education:</h4>
 <br>Master of Science in Project Management |Northeastern University| Boston, MA	                          
 <br>Graduate certificate in Business Administration |Northeastern University Boston, MA                      
 <br>Bachelor of Commerce in Business Management |University of Mumbai| Mumbai, India               
-
-
-
-
 
 <h4>Skills:</h4>
 <br>Tools            : HP ALM, Confluence, ASANA, Ariba, JIRA, Tableau, Microsoft Office Suite, Power BI,   
@@ -91,11 +82,9 @@ https://www.credential.net/569df3c2-038e-4fba-9aff-56f07eb90ed5#gs.f8uici
 <br>Google Analytics:
 https://drive.google.com/file/d/1eaQeCIaGv_xMuEln8Fndp6KnPc8caAai/view
 
-
-</h4>Contact Me:</h4>
+<h4>Contact Me:</h4>
 <br>Neha Salunkhe
 <br>neha.salunkhe30@gmail.com
-
 
 </body>
 </html>
