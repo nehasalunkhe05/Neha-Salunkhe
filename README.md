@@ -1,3 +1,4 @@
+<html>
 About Me:
 
 MS in project management, having 5+ years of experience as a project manager, I have an
@@ -8,12 +9,12 @@ I have critical thinking skills to tease out the risks in plans, eliminate block
 
 Achievements:
 
-Manufacturing apparels and deliver the consignment on time to increase clientage by 20%.
-Marketing campaign to spread awareness of the importance of insurance and training which lead to 30% client caseload increased.
-Planned, scheduled the project resources efficiently and delivered on time.
-Efficiently resolved issues, mitigated risk in order to make the project process smoothly and achieved milestone before scheduled time period.
-Delivered dashboard projects 15 days before the deadline.
-Successfully planned and completed contracts within project deadline.
+Manufacturing apparels and deliver the consignment on time to increase clientage by 20%.</br>
+Marketing campaign to spread awareness of the importance of insurance and training which lead to 30% client caseload increased.</br>
+Planned, scheduled the project resources efficiently and delivered on time.</br>
+Efficiently resolved issues, mitigated risk in order to make the project process smoothly and achieved milestone before scheduled time period.</br>
+Delivered dashboard projects 15 days before the deadline.</br>
+Successfully planned and completed contracts within project deadline.</br>
 
 
 Roles and Responsibility:
@@ -89,3 +90,4 @@ https://drive.google.com/file/d/1eaQeCIaGv_xMuEln8Fndp6KnPc8caAai/view
 Contact Me:
 Neha Salunkhe
 neha.salunkhe30@gmail.com
+</html>
