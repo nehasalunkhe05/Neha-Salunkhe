@@ -18,7 +18,7 @@ Graduated Northeastern University as Master in Project Management, having 5+ yea
 <br>Delivered dashboard projects 15 days before the deadline.
 <br>Successfully planned and completed contracts within project deadline.
 
-<h4>Roles and Responsibility:</h4>
+<h4>Roles and Responsibilities:</h4>
 <br>Excellent in written and verbal communication
 <br>Solid organizational skills including attention to detail and multi-tasking skills.
 <br>Strong working knowledge of MS Office.
