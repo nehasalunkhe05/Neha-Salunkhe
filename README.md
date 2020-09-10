@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
-About Me:
+<head>
+<title>My Porfolio</title>
+</head>
+<body>
+
+<h1>About Me:</h1>
 
 MS in project management, having 5+ years of experience as a project manager, I have an
 experience and wisdom to lead project teams and manage risks. I have delivered products on time, on budget and within scope. I have ability to take ownership of complex efforts and mediate between competing interests and personalities to get alignment and motivate change. I have always been proactive in identifying and resolving problems before they occur.
@@ -90,4 +96,7 @@ https://drive.google.com/file/d/1eaQeCIaGv_xMuEln8Fndp6KnPc8caAai/view
 Contact Me:
 Neha Salunkhe
 neha.salunkhe30@gmail.com
+
+
+</body>
 </html>
